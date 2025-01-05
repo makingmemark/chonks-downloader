@@ -1,0 +1,19 @@
+{
+  "name": "nft-fetchet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^3.0.1",
+    "ethers": "^6.13.4",
+    "node-fetch": "^3.3.2",
+    "sharp": "^0.33.5"
+  }
+}
